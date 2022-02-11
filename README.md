@@ -6,4 +6,15 @@
 ###### Header 6
 Mi primer repositorio.
 
-**Texto en negritas**
+**Texto en negrita** __Otro texto en negrita__
+
+*Texto en italica* _Otro texto en italica_
+
+** Lo que hay aqui es mas _importante_**
+
+>Cita
+>Descripcion de la cita
+
+```
+Comandos
+```
