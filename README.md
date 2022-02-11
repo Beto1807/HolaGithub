@@ -15,6 +15,13 @@ Mi primer repositorio.
 >Cita
 >Descripcion de la cita
 
+Algunos comandos de git son:
 ```
-Comandos
+push
+commit
+clone
 ```
+
+https://google.com.mx
+
+El enlace del readme esta [aqui](https://google.com.mx)
